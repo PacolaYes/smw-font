@@ -10,12 +10,10 @@
 		"pqrstuvwxyz{|}~∎",
 		"ÄÖÜäöüßàáāèéēìíī",
 		"òóōőùúūűçčćšđžñÑ",
-		"ë→↑←↓↔≈²³"
+		"ë→↑←↓↔≈²³ÇÀÁÈÉÌÍ",
+		"ÒÓÙÚªº¹"
 	],
 	"glyph-color": "auto",
-	"in-kerning": [
-		""
-	],
 	"glyph-width": 8,
 	"glyph-height": 11,
 	"glyph-ofs-x": 0,
@@ -33,14 +31,31 @@
 	"font-px-size": 128,
 	"contour-type": "pixel",
 	"font-type": "ttf",
-	"font-name": "SMW Monospace",
-	"font-author": "wye",
+	"font-is-upper": false,
+	"font-name": "SMW - PT-BR - Monospace",
+	"font-author": "wye, Pacola",
 	"font-copy": "",
-	"font-version": "Version 1.1",
-	"font-desc": "Adapted from the font used in Super Mario World",
+	"font-version-major": 1,
+	"font-version-minor": 0,
+	"font-desc": "Adapted from the font used in Super Mario World. Modified by Pacola to include characters used by PT-BR",
 	"font-license": "CC BY-NC 4.0",
 	"font-license-url": "https://creativecommons.org/licenses/by-nc/4.0/",
-	"font-sample-text": "",
+	"font-sample-text": [
+		""
+	],
+	"font-embedding": "4",
+	"font-weight-class": "400",
+	"font-width-class": "5",
+	"font-creation-date": "2025-03-21",
+	"font-creation-time": "22:46",
+	"font-modification-date": "2025-03-21",
+	"font-modification-time": "23:53",
+	"font-modification-auto": true,
+	"overrides": [
+		"# hide the pixels of the \"space\" characters!",
+		"# (but they'll still have a width)",
+		"hide \\s"
+	],
 	"font-preview-text": [
 		"Lorem Ipsum is simply dummy text of the printing and ",
 		"typesetting industry. Lorem Ipsum has been the industry's standard dummy",
