@@ -11,7 +11,8 @@
 		"ÄÖÜäöüßàáāèéēìíī",
 		"òóōőùúūűçčćšđžñÑ",
 		"ë→↑←↓↔≈²³ÇÀÁÈÉÌÍ",
-		"ÒÓÙÚªº¹"
+		"ÒÓÙÚªº¹ãẽĩõũÃẼĨÕ",
+		"ŨâêîôûÂÊÎÔÛ"
 	],
 	"glyph-color": "auto",
 	"glyph-width": 8,
@@ -48,8 +49,8 @@
 	"font-width-class": "5",
 	"font-creation-date": "2025-03-21",
 	"font-creation-time": "22:46",
-	"font-modification-date": "2025-03-21",
-	"font-modification-time": "23:53",
+	"font-modification-date": "2025-03-22",
+	"font-modification-time": "01:14",
 	"font-modification-auto": true,
 	"overrides": [
 		"# hide the pixels of the \"space\" characters!",
